@@ -9,5 +9,5 @@ The networks were validated using the DLFPC_Validation.py script together with t
 The networks were further tested using the DLFPC_InVivoTest.py script, where different amounts of added offsets were added to regular Philips in vivo edited MRS data (Big GABA repository). In this step, the network performance were compared to conventional spectral registration computed using Gannet. The results from Gannet are also saved (inVivo_AddedOffset + GlobalSR) and used in the comparison. Networks performance was investigated when 1. With no added offsets, 2. Small added offsets, 3. Medium added offsets, 4. Large added offsets. 
 
 
-Sofie Tapper
+Sofie Tapper, 
 stapper2 at jh.edu
